@@ -1,1 +1,1 @@
-Analysis of Customer Revenue and Expenditure Using K-Means and Hierarchical Clustering Comparison
+This project analyzes customer revenue and expenditure patterns by applying two clustering techniques: K-Means Clustering and Hierarchical Clustering. The objective is to segment customers based on their financial behaviors, helping businesses identify distinct groups and develop targeted strategies to enhance customer engagement and revenue generation.
